@@ -222,6 +222,11 @@ article img {
 
 }
 
+.btn-burguer {
+    margin: auto 50px auto auto;
+    cursor: pointer;
+}
+
 @media (min-width: 500px) {
     html {
         font-size: 100%;
